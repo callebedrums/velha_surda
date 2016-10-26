@@ -2,8 +2,11 @@
 Velha Surda.
 
 A velha surda responde gritando "O que?" para todas as perguntas que não foram feitas de forma gritada.
+
 A velha surda responde "Não. Desde 1980." sempre que entender (Ou achar que entender) a pergunta. (Pergunta gritada)
+
 A velha surda pergunta pro Velho sempre que lhe for perguntada as horas. (Pergunta gritada)
+
 A velha surda nunca escuta os minutos e só informa as horas.
 
 
